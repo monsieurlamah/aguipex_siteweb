@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'nucleo-icons';
+	src: url(/assets/fonts/../fonts/nucleo-icons.eot?h=72422a3f4e5d1df789db73d45e4f4c0e) format('embedded-opentype'),
+	url(/assets/fonts/../fonts/nucleo-icons.eot?h=72422a3f4e5d1df789db73d45e4f4c0e) format('embedded-opentype'),
+	url(/assets/fonts/../fonts/nucleo-icons.woff2?h=72422a3f4e5d1df789db73d45e4f4c0e) format('woff2'),
+	url(/assets/fonts/../fonts/nucleo-icons.woff?h=72422a3f4e5d1df789db73d45e4f4c0e) format('woff'),
+	url(/assets/fonts/../fonts/nucleo-icons.ttf?h=72422a3f4e5d1df789db73d45e4f4c0e) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}

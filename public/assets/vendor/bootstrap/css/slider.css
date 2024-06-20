@@ -1,0 +1,161 @@
+.slider .carousel {
+	margin: 0px 0;
+    background: #ccc;
+}
+.slider .carousel .item {
+    text-align: center;
+	overflow: hidden; 
+}
+.slider .carousel .item img {
+	min-width: 100%;
+    margin: 0 auto; /* Align slide image horizontally center in Bootstrap v3 */
+}
+.slider .carousel .carousel-control {
+	width: 50px;
+    height: 50px;
+    background: #000;
+    margin: auto 0;
+	opacity: 0.8;
+}
+.slider .carousel .carousel-control:hover {
+	opacity: 0.9;
+}
+.slider .carousel .carousel-control i {
+    font-size: 41px;
+	margin-top: 3px;
+}
+.slider .carousel-caption h3, .carousel-caption p {
+	color: #fff;
+	display: inline-block;
+	/*font-family: 'Oswald', sans-serif;
+	text-shadow: none;
+	margin-bottom: 20px;
+  */
+}
+.slider .carousel-caption{
+	top:10% !important;
+	font-size: 40px;
+	text-align: left !important;
+}
+.slider .carousel-caption h2 {
+	background: transparent;
+	text-align: left;
+	padding: 0px 20px;
+	margin: 0px !important;
+	font-size: 30px;	 
+	display: block;
+	margin-bottom: 10px !important;
+}
+.slider .carousel-caption h1 {
+	background: transparent;
+	text-align: left;
+	padding: 0px 20px; 
+	margin: 0px !important;
+	font-size: 50px;	 
+	display: block;
+	text-transform: uppercase;
+	margin-bottom: 10px !important;
+	font-weight: bold;
+}
+.slider .carousel-caption h3 {
+	background: transparent;
+	text-align: left;
+	padding: 0px 20px;
+	margin: 0px !important;
+	font-size: 20px;	 
+	display: block;
+}
+.slider .carousel-caption .btn{
+	text-align: left;
+	margin:  2px 20px;
+	padding: 8px 40px;
+	font-size: 12px;	
+	text-transform: uppercase;
+	border-radius: 20px;
+	box-shadow: 0px 3px 8px #555;
+}
+.slider .carousel-caption p {
+	background: transparent;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-weight: 300;	
+	text-transform: lowercase;
+	display:block;
+	width: 50%;
+	margin: 0px 0px 0px 5px !important;
+}
+.slider .carousel-indicators li, .carousel-indicators li.active {
+	margin-left: 4px;
+	margin-right: 4px;
+}
+.slider .carousel-indicators li.active {
+	background: #3AB0E4;
+	border-color: #3AB0E4;
+}
+.slider .carousel .nav {	
+	background: #eee;
+}
+.slider .carousel .nav a {
+	color: #333;
+	border-radius: 0;
+	font-size: 85%;
+	padding: 10px 16px;
+	background: white;
+	font-weight: bold;
+		box-shadow: 0px 3px 8px #555;
+}
+.slider .carousel .nav .nav-item.active a {
+	color: #fff;
+	background: #000000;
+	padding: 10px 16px;
+	font-weight: bold;
+}
+.slider .carousel .nav span {
+	background: #027611;
+	padding: 10px 16px;
+	font-size:20px;
+	border-radius: 30px;
+	margin-right: 10px;
+}
+.slider .carousel .nav .nav-item.active a span {
+	color:#050505;
+	background: white;
+	padding: 10px 16px;
+	font-weight: bold;
+}
+.gras{
+	font-weight: bold !important;
+}
+
+
+.objectif #myCarouselo{
+  padding: 0 20px;  
+}
+.objectif .carousel .item .testimonial{
+    font-size: 16px !important;
+}
+
+.service .carousel {
+    margin: 0px auto !important; 
+    padding: 0 10px  !important;
+}
+.client .carousel {
+    margin: 20px auto !important;
+    padding: 0 10px !important;
+}
+.slider .carousel-caption h2 {
+    /*font-size: 18px;*/
+}
+.slider .carousel-caption h1 {
+    font-size: 30px;
+}
+
+.slider .carousel-caption p{
+    width: 100% !important;
+}
+.temps {
+ height: auto !important;
+}
+.actives{
+  background-color: #3AB0E4 !important;
+}
